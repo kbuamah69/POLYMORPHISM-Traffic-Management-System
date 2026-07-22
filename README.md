@@ -16,7 +16,7 @@ python traffic_management.py
 ```
 
 ## Author
-Prince Amponsah
+Buamah Kwabena Sarpong
 
 ## Collaborator
 MatthewCobbinah
